@@ -1,0 +1,16 @@
+[
+  {
+    "title": "finish assignment",
+    "done": true
+  },
+  {
+    "title": "buy groceries",
+    "done": true
+  },
+  {
+    "title": "watch movie",
+    "date": "2025-05-30",
+    "time": "05:30",
+    "done": true
+  }
+]

@@ -1,0 +1,7 @@
+I started by building a CLI version but decided to shift to a Flask web app for better user interaction. I kept the interface simple and focused on core features: adding, viewing, completing, and deleting tasks.
+
+One challenge was implementing persistent storage without a database, which I solved using a JSON file. I then added dark/light mode with a toggle and animated UI elements to make the app feel more modern.
+
+For testing, I extracted task logic into a separate module (`task_manager.py`) and wrote automated tests using `pytest` to check task creation, completion, and deletion.
+
+From this project, I learned how to combine frontend and backend in Flask, manage state via JSON, use localStorage for theme toggling, and build testable, maintainable code.
